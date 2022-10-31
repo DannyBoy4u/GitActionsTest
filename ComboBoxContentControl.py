@@ -31,4 +31,7 @@ class ComboBoxOption:
 
     def castle(material: str):
         return "This is a {material} castle"
+
+    def tank(yourname: str):
+        return "Boom your dead {yourname}"
         
