@@ -19,3 +19,6 @@ class ComboBoxOption:
     
     def peasant():
         return "Yee art thou a Peasant"
+
+    def knight():
+        return "You are a knight sire"
