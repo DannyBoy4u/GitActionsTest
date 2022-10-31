@@ -54,4 +54,4 @@ jobs:
             git push
             git checkout origin/main
             git merge ${{ github.head_ref }}
-            pit push
+            git push
