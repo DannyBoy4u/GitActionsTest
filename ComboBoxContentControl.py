@@ -12,3 +12,12 @@ class ComboBoxOption:
 
     def superFoo():
         return 1
+
+    def regularFoo(num: int):
+        num = (5-num)
+        return num
+    
+    def pleaseWork():
+        return "beg peasant"
+    
+    
