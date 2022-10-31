@@ -25,3 +25,6 @@ class ComboBoxOption:
 
     def pawn():
         return "You are just a pawn"
+    
+    def hope():
+        return "You must have faith"
