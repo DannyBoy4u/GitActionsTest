@@ -19,12 +19,18 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
   steps:
-    # Runs a single command using the runners shell
+
     - name: Print generating changelog
-      run: echo "Generating new CHANGELOG"
+      run: echo "Generating new CHANGELOG"   
+      
+    # Checkout the branch
+    - name: checkout
+      uses: actions/checkout@v2
+      
     - name: Append Changelog
       run: git log  ${{ github.base_ref }} --pretty=format:"%h %ad | %s %d" --date=short >> CHANGELOG.md
            git config user.name github-actions
            git config user.email github-actions@github.com
            git add .
            git commit -m "generated"
+           git push origin main
