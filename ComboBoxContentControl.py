@@ -9,3 +9,6 @@ class ComboBoxOption:
     def __init__(self, display_text: str, value: str):
         self.display_text = display_text
         self.value = value
+
+    def superFoo():
+        return 1
