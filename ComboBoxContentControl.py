@@ -22,3 +22,6 @@ class ComboBoxOption:
 
     def knight():
         return "You are a knight sire"
+
+    def pawn():
+        return "You are just a pawn"
