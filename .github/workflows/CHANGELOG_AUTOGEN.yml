@@ -15,8 +15,6 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build:
-    if: github.event.pull_request.merged == true
-
     # The type of runner that the job will run on
     runs-on:
       ubuntu-latest
@@ -33,17 +31,11 @@ jobs:
           fetch-depth: 0
           token: ${{ github.token }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Install gitchangelog 3.0.4
-        run: pip install gitchangelog
-
-      - name: Generate CHANGELOG
+      - name: Append Changelog
         run: |
-          gitchangelog > CHANGELOG.md
+          echo "# ${{ github.head_ref }}" > CHANGELOG.md
+          git log "origin/${{ github.head_ref }}" >> CHANGELOG.md
+
       - name: Commit CHANGELOG
         run: |
           git config user.name github-actions
