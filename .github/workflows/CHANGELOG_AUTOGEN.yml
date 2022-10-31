@@ -21,6 +21,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
   steps:
     # Runs a single command using the runners shell
+    - name: print generating changelog
+      run: echo "Generating new changelog..."
     - name: Append Changelog
       run: git log  ${{ github.base_ref}}  --pretty=format:"%h %ad | %s %d" --date=short >> CHANGELOG.md
            git config user.name github-actions
