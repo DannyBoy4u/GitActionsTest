@@ -33,7 +33,7 @@ jobs:
          token: ${{ github.token }}
       
     - name: Append Changelog
-      run: 
+      run: |
          echo "# ${{ github.head_ref }}" > CHANGELOG.md
          git log ${{ github.head_ref }} >> CHANGELOG.md
          
