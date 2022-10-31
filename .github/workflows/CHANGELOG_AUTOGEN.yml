@@ -34,7 +34,8 @@ jobs:
       
     - name: Append Changelog
       run: 
-         git log origin/main >> CHANGELOG.md
+         echo "# ${{ github.head_ref }}" > CHANGELOG.md
+         git log ${{ github.head_ref }} >> CHANGELOG.md
          
     - name: Commit CHANGELOG  
       run: |        
