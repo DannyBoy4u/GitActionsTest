@@ -34,4 +34,6 @@ class ComboBoxOption:
 
     def tank(yourname: str):
         return "Boom your dead {yourname}"
-        
+    
+    def changelog():
+        return "please work"
