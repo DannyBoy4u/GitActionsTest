@@ -707,4 +707,98 @@ ed16908 2022-10-30 | feat: Regular Foo now created. Returns 0
 24443bb 2022-10-30 | Merge pull request #1 from DannyBoy4u/NewBranch 
 8929c85 2022-10-30 | feat: Super Foo function done. Returns 1 lol 
 cbdb1d9 2022-10-30 | feat: Newest change 
+3ad60d1 2022-10-30 | feat/AAd Readme # Castle
+13d68c8 2022-10-31 | Feat: Added More Functionality to the castle  (origin/Castle)
+990755d 2022-10-31 | feat: Castle Function 
+53d34b6 2022-10-31 | generated changelog 
+fcfd9c3 2022-10-31 | Merge pull request #37 from DannyBoy4u/TitleOnReadme 
+d9008a0 2022-10-31 | feat: Added Title to readme  (origin/TitleOnReadme)
+c069fe8 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+4180a1e 2022-10-31 | generated changelog 
+7e59396 2022-10-31 | Merge pull request #36 from DannyBoy4u/Test 
+6dc8cba 2022-10-31 | feat: Testing  (origin/Test)
+dfaa995 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+7e7c840 2022-10-31 | Merge pull request #35 from DannyBoy4u/Ultimate-Readme 
+dab6e24 2022-10-31 | feat: Ultimate Readme  (origin/Ultimate-Readme)
+236f1e2 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+138fe51 2022-10-31 | generated changelog 
+0b35a58 2022-10-31 | Merge pull request #34 from DannyBoy4u/Formatted-Text 
+ab84e4e 2022-10-31 | feat: Random Text  (origin/Formatted-Text)
+23b2d71 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+b4feb92 2022-10-31 | generated changelog 
+e92d691 2022-10-31 | Merge pull request #33 from DannyBoy4u/NewText 
+08909b8 2022-10-31 | feat: RandomNewTxt  (origin/NewText)
+8cae3ab 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+0f7b16f 2022-10-31 | Merge pull request #31 from DannyBoy4u/RandText 
+e14f243 2022-10-31 | feat: RandT 
+4844932 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+b184d67 2022-10-31 | Merge pull request #30 from DannyBoy4u/P 
+6d4e6f1 2022-10-31 | feat: p  (origin/P)
+71c8664 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+884f966 2022-10-31 | Merge pull request #29 from DannyBoy4u/Random-Text 
+4f3f531 2022-10-31 | feat: Random Text  (origin/Random-Text)
+6ad729f 2022-10-31 | Merge pull request #28 from DannyBoy4u/1Trillion 
+439bfbc 2022-10-31 | feat: test  (origin/1Trillion)
+5963a3c 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+b5b5f9e 2022-10-31 | Merge pull request #27 from DannyBoy4u/Patch-1000 
+31a56c4 2022-10-31 | feat: Please work  (origin/Patch-1000)
+6134f20 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+88e70c9 2022-10-31 | Merge pull request #26 from DannyBoy4u/Worked 
+d6181cd 2022-10-31 | feat: this worked  (origin/Worked)
+0e6fccc 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+af58d94 2022-10-31 | Merge pull request #25 from DannyBoy4u/PleaseWork 
+0454b80 2022-10-31 | Feat: Hope  (origin/PleaseWork)
+f53d5ff 2022-10-31 | Merge pull request #24 from DannyBoy4u/SomeFeature 
+625017c 2022-10-31 | feat: Some New Feature  (origin/SomeFeature)
+eea7576 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+0d79429 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+2cbd285 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+b1bd8e7 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+be9a3da 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+4754188 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+86819b9 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+94b44c5 2022-10-31 | Merge pull request #16 from DannyBoy4u/DannyBoy4u-update-readme 
+e173bc0 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+68874d8 2022-10-31 | feat: Updated Readme  (origin/DannyBoy4u-update-readme)
+c48087b 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+319a873 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+5ec3550 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+a6dbe2f 2022-10-31 | Merge pull request #13 from DannyBoy4u/DannyBoy4u-patch-newnew 
+c6a5209 2022-10-31 | feat: This worked  (origin/DannyBoy4u-patch-newnew)
+e93b3b5 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+3be966b 2022-10-31 | Merge pull request #12 from DannyBoy4u/DannyBoy4u-patch-newest 
+df311c8 2022-10-31 | feat: Pretty Please  (origin/DannyBoy4u-patch-newest)
+4d6b4ee 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+e935d59 2022-10-31 | Merge pull request #11 from DannyBoy4u/DannyBoy4u-patch-2 
+ade3b7c 2022-10-31 | feat: Better Work Dog  (origin/DannyBoy4u-patch-2)
+8808a22 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+cf4aff9 2022-10-31 | Merge pull request #10 from DannyBoy4u/DannyBoy4u-patch-new-1 
+e083ae5 2022-10-31 | feat: Dude  (origin/DannyBoy4u-patch-new-1)
+b5a9074 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+a59e8d1 2022-10-31 | Merge pull request #9 from DannyBoy4u/DannyBoy4u-patch-5 
+91acddc 2022-10-31 | Update README.md  (origin/DannyBoy4u-patch-5)
+039f970 2022-10-31 | Update CHANGELOG_AUTOGEN.yml 
+2be96d6 2022-10-31 | Merge pull request #7 from DannyBoy4u/DannyBoy4u-patch-1 
+5f0a389 2022-10-30 | feat: Update Readme 
+0f20b0d 2022-10-30 | Update CHANGELOG_AUTOGEN.yml 
+43bcb34 2022-10-30 | Merge pull request #6 from DannyBoy4u/Pawn 
+c61a33d 2022-10-30 | feat: Pawn function  (origin/Pawn)
+6936f4b 2022-10-30 | Update CHANGELOG_AUTOGEN.yml 
+c0345bd 2022-10-30 | Merge pull request #5 from DannyBoy4u/Knight 
+35755cd 2022-10-30 | feat: Finished knight function  (origin/Knight)
+776a0cf 2022-10-30 | Update CHANGELOG_AUTOGEN.yml 
+cb860b2 2022-10-30 | feat: Added CHANGELOG.md (#4) 
+34f4710 2022-10-30 | Merge pull request #3 from DannyBoy4u/Peasant2 
+984ea33 2022-10-30 | feat: Peasant function is now finished 
+e7fa2a4 2022-10-30 | Update CHANGELOG_AUTOGEN.yml 
+c25df28 2022-10-30 | Delete CHANGELOGGEN.yml 
+8ae3321 2022-10-30 | Create CHANGELOG_AUTOGEN.yml 
+8272a8d 2022-10-30 | Update CHANGELOGGEN.yml 
+3535816 2022-10-30 | Merge pull request #2 from DannyBoy4u/TestingChangelog 
+5c34c74 2022-10-30 | feat: Made regular Foo more complex.  (origin/TestingChangelog)
+ed16908 2022-10-30 | feat: Regular Foo now created. Returns 0 
+00abf17 2022-10-30 | feat: Changelog gen  (origin/Peasant)
+24443bb 2022-10-30 | Merge pull request #1 from DannyBoy4u/NewBranch 
+8929c85 2022-10-30 | feat: Super Foo function done. Returns 1 lol 
+cbdb1d9 2022-10-30 | feat: Newest change 
 3ad60d1 2022-10-30 | feat/AAd Readme 
