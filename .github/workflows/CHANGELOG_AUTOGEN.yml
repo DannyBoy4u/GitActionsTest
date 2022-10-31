@@ -7,6 +7,8 @@ name: CHANGELOG_AUTOGEN
 # or API.
 on:
    pull_request:
+    types:
+      - closed
     branches:
       - master
       - main
