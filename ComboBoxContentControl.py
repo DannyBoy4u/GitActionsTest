@@ -12,3 +12,6 @@ class ComboBoxOption:
 
     def superFoo():
         return 1
+
+    def regularFoo():
+        return 0
