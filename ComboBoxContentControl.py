@@ -28,3 +28,7 @@ class ComboBoxOption:
     
     def hope():
         return "You must have faith"
+
+    def castle(material: str):
+        return "This is a {material} castle"
+        
