@@ -15,7 +15,7 @@ class ComboBoxOption:
 
     def regularFoo(num: int):
         num = (5-num)
-        return num
+        return num'
     
     def peasant():
         return "Yee art thou a Peasant"
@@ -34,4 +34,6 @@ class ComboBoxOption:
 
     def tank(yourname: str):
         return "Boom your dead {yourname}"
-        
+    
+    def changelog():
+        return "please work"
