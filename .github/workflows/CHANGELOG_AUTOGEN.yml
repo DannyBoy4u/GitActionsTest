@@ -22,7 +22,7 @@ jobs:
   steps:
     # Runs a single command using the runners shell
     - name: Append Changelog
-      run: git log  ${{ GITHUB_BASE_REF }} --pretty=format:"%h %ad | %s %d" --date=short >> CHANGELOG.md
+      run: git log  ${{ github.base_ref}}  --pretty=format:"%h %ad | %s %d" --date=short >> CHANGELOG.md
            git config user.name github-actions
            git config user.email github-actions@github.com
            git add .
