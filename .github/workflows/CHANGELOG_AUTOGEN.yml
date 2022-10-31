@@ -25,7 +25,7 @@ jobs:
       
     # Checkout the branch
     - name: checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v3
       
     - name: Append Changelog
       run: git log ${{ github.base_ref }}>> CHANGELOG.md
