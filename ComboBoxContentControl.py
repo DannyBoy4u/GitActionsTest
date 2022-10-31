@@ -17,3 +17,5 @@ class ComboBoxOption:
         num = (5-num)
         return num
     
+    def peasant():
+        return "Yee art thou a Peasant"
